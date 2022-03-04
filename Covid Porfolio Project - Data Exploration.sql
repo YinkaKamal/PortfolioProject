@@ -1,6 +1,6 @@
 /*
 Covid 19 Data Exploration 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+This SQL script is the process used in cleaning Raw Covid-19 dataset
 */
 
 Select *
